@@ -1,0 +1,80 @@
+body {
+    background: #333;
+    color: #fff;
+}
+
+.navbar {
+    border-bottom: #09b47f 3px solid;
+    opacity: 0.8;
+}
+
+#home-section {
+    background: url(../img/Karate-main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+
+#home-section .dark-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+    background-color: rgba(0,0,0,0.7);
+}
+
+#home-section .home-inner {
+    padding-top: 150px;
+}
+
+#home-section span {
+    color: #09b47f;
+}
+
+#home-section .card-form {
+    background: #09b47f;
+    opacity: 0.8;
+}
+
+#home-section .fas {
+    color: #09b47f;
+    background: #fff;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#about-us-head-section h1 {
+    color: #09b47f;
+}
+
+#about-us-section img {
+    border-radius: 3px;
+}
+
+#news-head-section h1 {
+    color: #09b47f;
+}
+
+#news-section img {
+    border-radius: 3px;
+}
+
+#news-section .fas {
+    color: #09b47f;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
